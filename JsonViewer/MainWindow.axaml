@@ -1,0 +1,32 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:tv="clr-namespace:TreeViewAvalonia;assembly=TreeViewAvalonia"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="JsonViewer.MainWindow"
+        Title="JsonViewer">
+	<Grid x:Name="mainGrid">
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition
+				MinWidth="100"
+				Width="0.4*" />
+			<ColumnDefinition
+				Width="3" />
+			<ColumnDefinition
+				MinWidth="100"
+				Width="0.6*" />
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition
+				Height="*" />
+		</Grid.RowDefinitions>
+		<!-- Left pane: Tree View of the json structure -->
+		<tv:SharpTreeView
+			Name="treeView"
+			ShowRoot="False"
+			AllowDropOrder="True"
+			DragDrop.AllowDrop="True"
+			BorderThickness="3,3,3,3" IsVisible="true" />
+	</Grid>
+</Window>
