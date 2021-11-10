@@ -1,9 +1,0 @@
-E:\repos\TreeViewAvalonia\TreeViewAvalonia\obj\Debug\net6.0\TreeViewAvalonia.GeneratedMSBuildEditorConfig.editorconfig
-E:\repos\TreeViewAvalonia\TreeViewAvalonia\obj\Debug\net6.0\TreeViewAvalonia.csproj.CoreCompileInputs.cache
-E:\repos\TreeViewAvalonia\TreeViewAvalonia\obj\Debug\net6.0\ref\TreeViewAvalonia.dll
-E:\repos\TreeViewAvalonia\TreeViewAvalonia\bin\Debug\net6.0\TreeViewAvalonia.deps.json
-E:\repos\TreeViewAvalonia\TreeViewAvalonia\bin\Debug\net6.0\TreeViewAvalonia.dll
-E:\repos\TreeViewAvalonia\TreeViewAvalonia\bin\Debug\net6.0\ref\TreeViewAvalonia.dll
-E:\repos\TreeViewAvalonia\TreeViewAvalonia\bin\Debug\net6.0\TreeViewAvalonia.pdb
-E:\repos\TreeViewAvalonia\TreeViewAvalonia\obj\Debug\net6.0\TreeViewAvalonia.dll
-E:\repos\TreeViewAvalonia\TreeViewAvalonia\obj\Debug\net6.0\TreeViewAvalonia.pdb
