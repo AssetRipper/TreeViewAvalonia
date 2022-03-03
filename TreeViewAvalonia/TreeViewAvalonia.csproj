@@ -22,7 +22,7 @@
 	</ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Avalonia" Version="0.10.10" />
+    <PackageReference Include="Avalonia" Version="0.10.13" />
     <PackageReference Include="Avalonia.AvaloniaEdit" Version="0.10.9" />
   </ItemGroup>
 
